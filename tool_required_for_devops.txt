@@ -1,0 +1,8 @@
+# AWS based syllabus for Devops
+
+1. Git & GitHub
+2. AWS CodeCommit
+3. AWS CodeBuild
+4. AWS CodeDeploy
+5. AWS CodePipeline
+6. AWS EKS
